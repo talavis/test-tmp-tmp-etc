@@ -6,8 +6,11 @@
 
 ## Description
 
+*If the PR contains a chart, use the [chart PR template](?template=chart) instead.*
+
 Describe your changes here to communicate to the maintainers why we should accept this pull request. 
 If it fixes a bug or resolves a feature request, be sure to include a link to that issue.
+
 
 ## Types of changes
 
